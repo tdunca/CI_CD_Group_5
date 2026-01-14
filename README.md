@@ -5,7 +5,7 @@ This project is a C# console application that validates Swedish personal identit
 according to Swedish rules, and is covered by automated unit tests using xUnit.
 
 ## Requirements
-- .NET SDK 6.0 or later
+- .NET SDK 8.0 or later
 - Visual Studio (recommended) or .NET CLI
 
 ### Info
