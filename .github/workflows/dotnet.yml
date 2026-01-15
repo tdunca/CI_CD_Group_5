@@ -58,4 +58,4 @@ jobs:
               with:
                   context: .
                   push: true
-                  tags: ${{ secrets.DOCKERHUB_USERNAME }}/personnummer-kontroll:latest
+                  tags: ${{ secrets.DOCKERHUB_USERNAME }}/swedish-personnummer-validator:latest
