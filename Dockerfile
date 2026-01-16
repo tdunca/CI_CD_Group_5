@@ -20,3 +20,5 @@ COPY --from=build /app/publish .
 
 # Starta applikationen
 ENTRYPOINT ["dotnet", "CI_CD_Group_5.dll"]
+
+##3 komentar
